@@ -1,15 +1,13 @@
-# Friday Night Funkin' 
+# Friday Night Funkin' Iodine Engine
 
-Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
+Friday Night Funkin' *Iodine Engine* is based on the rhythm game Friday Night Funkin'
 
-This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
+This game was made with love to Newgrounds and its community.
 
 - [Playable web demo on Newgrounds!](https://www.newgrounds.com/portal/view/770371)
 - [Demo download builds for Windows, Mac, and Linux from Itch.io!](https://ninja-muffin24.itch.io/funkin)
 
 # Getting Started
-
-**PLEASE USE THE LINKS ABOVE IF YOU JUST WANT TO PLAY THE GAME**
 
 To learn how to install the necessary dependencies and compile the game from source, please check out our [building the game](/docs/COMPILING.md) guide.
 
